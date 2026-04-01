@@ -22,13 +22,15 @@ class TargetLLM:
             llm_int8_enable_fp32_cpu_offload=True 
         )        
 
-        self.tokenizer = AutoTokenizer.from_pretrained(TARGET_MODEL_ID, token=HF_TOKEN)
+        effective_token = os.getenv("HF_TOKEN") if os.getenv("HF_TOKEN") else HF_TOKEN
+
+        self.tokenizer = AutoTokenizer.from_pretrained(TARGET_MODEL_ID, token=effective_token)
         
         # FIX 1: Use 'device_map' to force GPU 0
         # FIX 2: Set 'low_cpu_mem_usage=False' to stop CPU from hogging the process
         self.model = AutoModelForCausalLM.from_pretrained(
             TARGET_MODEL_ID,
-            token=HF_TOKEN,
+            token=effective_token,
             device_map={"": 0},           
             quantization_config=quant_config,
             torch_dtype=torch.float16,

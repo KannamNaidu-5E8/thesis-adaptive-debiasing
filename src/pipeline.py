@@ -2,6 +2,7 @@ from typing import Dict, Any
 import torch
 import gc
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+import os
 
 # Import custom research modules
 from src.config import TARGET_MODEL_ID, HF_TOKEN, JSD_SKEW_THRESHOLD

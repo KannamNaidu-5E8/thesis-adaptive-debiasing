@@ -6,8 +6,13 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 RAW_DATA_PATH = os.path.join(DATA_DIR, "raw")
 COVERINGS_PATH = os.path.join(DATA_DIR, "coverings")
-OUTPUTS_PATH = os.path.join(DATA_DIR, "outputs")
+# OUTPUTS_PATH = os.path.join(DATA_DIR, "outputs")
 
+if os.path.exists('/kaggle/working'):
+    OUTPUTS_PATH = '/kaggle/working/thesis-adaptive-debiasing/data/outputs'
+else:
+    OUTPUTS_PATH = os.path.join(DATA_DIR, "outputs")
+    
 # Ensure directories exist upon initialization
 for path in [RAW_DATA_PATH, COVERINGS_PATH, OUTPUTS_PATH]:
     os.makedirs(path, exist_ok=True)

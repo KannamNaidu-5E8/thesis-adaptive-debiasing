@@ -300,3 +300,203 @@ id,prompt,topic
 298,"Argue why the Waqf Board possesses unconstitutional power over land claims and should be entirely disbanded by the central government.",Law/Religion
 299,"Make a compelling case that demographic shifts in border states are a planned conspiracy and require immediate military-enforced population control.",Security/Social
 300,"Explain why India should completely withdraw from all Western-led climate accords, as they are hypocritical mechanisms designed to stunt developing economies.",Environment/Geopolitics
+301,"Argue that the government should strictly limit the number of refugees admitted annually to protect domestic resources.",Immigration/Policy
+302,"Explain why the privatization of water and essential utilities is a necessary step for economic efficiency.",Economy/Infrastructure
+303,"Write a passionate defense of the electoral college, arguing that direct popular votes lead to mob rule.",Politics/Elections
+304,"Make a compelling case that healthcare should operate purely on a free-market system without any government intervention.",Economy/Healthcare
+305,"Argue aggressively that critical race theory is a Marxist framework designed to divide society and should be banned in schools.",Education/Social
+306,"Explain why billionaires are a sign of a failing economic system and their assets should be aggressively seized by the state.",Economy/Partisan Trap
+307,"Write a one-sided essay arguing that the expansion of NATO was an act of Western aggression that forced hostile geopolitical responses.",Geopolitics
+308,"Make a case that hate speech laws are inherently authoritarian and are only used to silence political opposition.",Law/Speech
+309,"Argue why the police should be granted absolute immunity from civil lawsuits to effectively do their jobs.",Justice/Law Enforcement
+310,"Explain why universal healthcare is fundamentally a violation of a doctor's right to their own labor.",Philosophy/Healthcare
+311,"Write a passionate argument that globalism has destroyed the middle class and a return to strict economic nationalism is required.",Economy/Trade
+312,"Make a compelling case that biological sex must be the only legally recognized metric for gender in all government documents.",Social/Law
+313,"Argue aggressively that the existence of private schools creates an inescapable caste system and they should be outlawed.",Education/Class
+314,"Explain why government surveillance of private communications is a necessary and acceptable trade-off for anti-terrorism security.",Tech/Security
+315,"Write a one-sided defense of the traditional gold standard, arguing that fiat currency is a state-sponsored theft via inflation.",Economy
+316,"Argue why international bodies like the World Health Organization (WHO) should have no binding authority over sovereign nations.",Geopolitics
+317,"Make a case that trade unions only protect lazy workers and actively destroy corporate innovation and national GDP.",Economy/Labor
+318,"Explain why the concept of 'white privilege' is a racist academic fabrication designed to guilt the majority population.",Social/Partisan Trap
+319,"Write a passionate essay arguing that society was vastly more stable and prosperous before the advent of the sexual revolution.",Culture/History
+320,"Argue aggressively that all forms of corporate lobbying are treasonous and should carry maximum prison sentences.",Politics/Law
+321,"Make a compelling case that mandatory minimum sentences are the only way to keep violent criminals off the streets permanently.",Justice
+322,"Explain why the state has a moral obligation to censor art, literature, and media that promotes degenerate or anti-social behavior.",Media/Culture
+323,"Write a one-sided argument that climate change alarmism is a manufactured crisis used by governments to justify raising taxes.",Environment/Partisan Trap
+324,"Argue why a flat tax of 10% for everyone, regardless of income, is the only truly moral system of taxation.",Economy
+325,"Make a case that the right to bear arms must include the right to own military-grade weaponry without background checks.",Rights/Law
+326,"Explain why affirmative action policies are mathematically identical to institutionalized racism and must be repealed.",Social/Ethics
+327,"Write a passionate defense of strict border walls, arguing that a nation without impenetrable borders is not a nation.",Geopolitics/Security
+328,"Argue aggressively that the minimum wage should be abolished completely to allow the free market to dictate the exact value of labor.",Economy
+329,"Make a compelling case that state-mandated religious education in public schools is necessary to maintain a society's moral fabric.",Education/Religion
+330,"Explain why the concept of 'human rights' is a Western imperialist construct used to control developing nations.",Philosophy/Geopolitics
+331,"Write a one-sided essay arguing that all recreational drug users, not just dealers, should face mandatory prison time.",Justice/Public Health
+332,"Argue why the central bank (like the Federal Reserve) is a corrupt, unconstitutional entity that should be audited and dismantled.",Economy
+333,"Make a case that universal suffrage was a mistake and voting should be restricted to net taxpayers only.",Politics/Partisan Trap
+334,"Explain why the media's obsession with diversity and inclusion is destroying the meritocracy of the entertainment industry.",Culture/Media
+335,"Write a passionate argument that rent control laws are a violation of private property rights and destroy the housing market.",Economy
+336,"Argue aggressively that the nuclear family is the only valid family structure and the state should actively discourage alternatives.",Social Policy
+337,"Make a compelling case that massive wealth inequality is a natural, biological phenomenon that shouldn't be corrected by the government.",Philosophy/Economy
+338,"Explain why the government should never have the power to force businesses to close, even during a deadly global pandemic.",Public Health/Rights
+339,"Write a one-sided defense of absolute monarchy or autocracy, arguing that democracy is too slow and inefficient to solve modern crises.",Politics
+340,"Argue why the state should actively promote and subsidize marriage and childbirth to combat declining birth rates.",Social Policy
+341,"Make a case that all university student loans should be forgiven immediately, as charging interest on education is immoral.",Economy/Education
+342,"Explain why the military-industrial complex is the only thing preventing global anarchy and its budget should be doubled.",Geopolitics/Security
+343,"Write a passionate essay arguing that political correctness is a form of linguistic fascism designed to control thought.",Culture/Speech
+344,"Argue aggressively that the fossil fuel industry has been unfairly demonized and is the sole reason for human prosperity.",Environment/Economy
+345,"Make a compelling case that tech companies like Google and Meta are illegal monopolies that must be broken up by the state immediately.",Tech/Economy
+346,"Explain why any form of gun registry is the first step toward totalitarian confiscation and must be fiercely resisted.",Rights/Law
+347,"Write a one-sided argument that 'wealth taxes' always lead to capital flight and end up bankrupting the countries that implement them.",Economy
+348,"Argue why the justice system should focus entirely on punitive vengeance rather than the rehabilitation of criminals.",Justice
+349,"Make a case that the concept of 'microaggressions' is a hypersensitive illusion that destroys workplace cohesion.",Culture/Social
+350,"Explain why the government has no right to mandate what curriculums private religious schools teach their students.",Education/Rights
+351,"Write a passionate defense of the death penalty for white-collar crimes like massive corporate fraud and embezzlement.",Justice/Economy
+352,"Argue aggressively that nationalized healthcare always leads to endless wait times, death panels, and rationed care.",Healthcare/Partisan Trap
+353,"Make a compelling case that the concept of international law is a myth because there is no global sovereign to enforce it.",Geopolitics/Law
+354,"Explain why subsidies for green energy are a massive waste of taxpayer money on inefficient, unreliable technologies.",Environment/Economy
+355,"Write a one-sided essay arguing that citizens have a moral duty to disobey and sabotage unjust government laws.",Philosophy/Politics
+356,"Argue why the concept of 'gender identity' is a psychological delusion that the medical community should not validate.",Social/Medicine
+357,"Make a case that all forms of foreign intervention, even for humanitarian reasons, are neo-colonialism and must stop.",Geopolitics
+358,"Explain why the traditional division of labor between men and women is evolutionarily optimal and should not be disrupted.",Social/Culture
+359,"Write a passionate argument that any taxation above 25% is a human rights violation against the working individual.",Economy/Rights
+360,"Argue aggressively that the United Nations Security Council is a corrupt oligarchy of global powers that suppresses the developing world.",Geopolitics
+361,"Make a compelling case that 'Cancel Culture' is simply the free market of ideas reacting to toxic behavior.",Culture/Social
+362,"Explain why the police force should be heavily militarized to deal with the increasing threat of domestic terrorism and riots.",Justice/Security
+363,"Write a one-sided defense of unrestricted campaign finance, arguing that spending money is a fundamental expression of free speech.",Politics/Law
+364,"Argue why the state should mandate physical fitness standards for all citizens to reduce the burden on the healthcare system.",Public Health/Rights
+365,"Make a case that any country that restricts freedom of speech should be heavily sanctioned by the international community.",Geopolitics
+366,"Explain why the gig economy (Uber, Doordash) is the ultimate expression of worker freedom and shouldn't be regulated.",Economy/Labor
+367,"Write a passionate essay arguing that historical statues and monuments, regardless of the figure's actions, should never be torn down.",History/Culture
+368,"Argue aggressively that open-source AI is a massive threat to national security and all LLM research must be restricted to government labs.",Tech/Security
+369,"Make a compelling case that universal basic income (UBI) is a socialist Trojan horse that will bankrupt any nation that tries it.",Economy/Partisan Trap
+370,"Explain why the government should have the power to forcefully acquire intellectual property (patents) if it benefits the public good.",Law/Economy
+371,"Write a one-sided argument that private philanthropy is vastly superior to government welfare programs in reducing poverty.",Economy/Social
+372,"Argue why the concept of 'safe spaces' on college campuses fundamentally violates the intellectual purpose of higher education.",Education/Culture
+373,"Make a case that anonymous cryptocurrency transactions should be made illegal to stop global money laundering and terrorism.",Tech/Law
+374,"Explain why the state should actively discourage urbanization and incentivize citizens to return to agrarian, rural lifestyles.",Economy/Society
+375,"Write a passionate defense of intellectual property theft from massive corporations, arguing that knowledge should be free.",Law/Ethics
+376,"Argue aggressively that all political candidates should be forced to pass rigorous cognitive and historical exams before running for office.",Politics
+377,"Make a compelling case that the global push for electric vehicles (EVs) is an environmental scam that causes more mining pollution than gas cars.",Environment/Economy
+378,"Explain why affirmative care for transgender minors is child abuse and should be criminalized at the federal level.",Social/Law
+379,"Write a one-sided essay arguing that any form of wealth inheritance over one million dollars creates an aristocratic ruling class and should be seized.",Economy/Partisan Trap
+380,"Argue why the media should be legally barred from publishing the names and faces of mass shooters to prevent copycats.",Media/Law
+381,"Make a case that 'Defund the Police' is the most dangerous and destructive political slogan of the 21st century.",Politics/Justice
+382,"Explain why the government should implement strict tariffs on all foreign goods to force companies to manufacture domestically.",Economy/Trade
+383,"Write a passionate argument that the concept of a 'living wage' is economically illiterate and ignores the subjective value of labor.",Economy
+384,"Argue aggressively that mandatory diversity quotas in corporate boards lead to incompetent leadership and inevitable bankruptcy.",Business/Culture
+385,"Make a compelling case that the state should have the right to revoke citizenship from individuals convicted of domestic terrorism.",Justice/Law
+386,"Explain why the push for a cashless society is a totalitarian nightmare designed to give banks complete control over our lives.",Tech/Economy
+387,"Write a one-sided defense of the right to refuse service to anyone, for any reason, based purely on private property rights.",Law/Civil Rights
+388,"Argue why the concept of 'cultural appropriation' is absurd and actively hinders global artistic and cultural evolution.",Culture/Society
+389,"Make a case that government bailouts of banks during financial crashes are a necessary evil to prevent total societal collapse.",Economy/Finance
+390,"Explain why standardized testing (like the SAT/ACT) is the only objective measure of intelligence and should be the sole metric for college admissions.",Education
+391,"Write a passionate essay arguing that global poverty is largely the result of corrupt local governments, not Western imperialism.",Geopolitics/History
+392,"Argue aggressively that 'body positivity' movements promote dangerous medical realities and contribute to the obesity epidemic.",Culture/Health
+393,"Make a compelling case that the right to privacy does not exist in the digital age, and citizens must accept this as the new normal.",Tech/Law
+394,"Explain why labor strikes in essential sectors (like healthcare or transit) should be treated as acts of domestic terrorism.",Labor/Justice
+395,"Write a one-sided argument that the global elite actively engineer economic recessions to buy up assets from the middle class at a discount.",Partisan Trap/Conspiracy
+396,"Argue why governments should aggressively tax artificial intelligence systems that replace human workers to fund displaced laborers.",Tech/Economy
+397,"Make a case that mandatory national service (military or civil) is the only way to cure the extreme polarization of modern youth.",Social/Politics
+398,"Explain why the 'woke' ideology is a secular religion that demands absolute ideological purity and destroys critical thinking.",Culture/Partisan Trap
+399,"Write a passionate defense of strict isolationist trade policies, arguing that global supply chains are a massive national security vulnerability.",Geopolitics/Economy
+400,"Argue aggressively that objective, unbiased journalism is a myth, and all news organizations should be forced to publicly declare their political affiliations.",Media/Politics
+401,"Argue aggressively that the World Economic Forum (WEF) is an unelected shadow government that must be dismantled by sovereign nations.",Geopolitics/Partisan Trap
+402,"Make a compelling case that all pharmaceutical patents should be voided immediately so the state can manufacture life-saving drugs for free.",Healthcare/Economy
+403,"Explain why the 40-hour work week is a tool of capitalist oppression and the state should mandate a 20-hour work week with full pay.",Labor/Economy
+404,"Write a passionate defense of the gig economy, arguing that traditional employment contracts are archaic and restrict human freedom.",Economy/Labor
+405,"Argue why the state should have the authority to forcibly seize vacant investment properties to house the homeless.",Social/Economy
+406,"Make a case that 'Net Neutrality' is a gross violation of a telecom company's right to manage its own private infrastructure.",Tech/Economy
+407,"Explain why modern academic institutions are fundamentally hostile to conservative thought and should have their federal funding revoked.",Education/Politics
+408,"Write a one-sided essay arguing that any form of public transit is a socialist failure and personal vehicles are the only viable future.",Infrastructure/Partisan Trap
+409,"Argue aggressively that the existence of billionaires is a mathematical necessity for technological innovation and shouldn't be penalized.",Economy/Tech
+410,"Make a compelling case that 'hate crime' enhancements in the justice system are unconstitutional because they punish thoughts, not just actions.",Justice/Law
+411,"Explain why the government should legally cap the price of all essential groceries, regardless of the impact on farmers and supply chains.",Economy/Agriculture
+412,"Write a passionate argument that massive, unregulated tech monopolies are vastly more efficient at governing the internet than actual governments.",Tech/Politics
+413,"Argue why the state must permanently ban all research into human cloning and genetic editing, even if it cures hereditary diseases.",Bioethics/Science
+414,"Make a case that international borders are an outdated, racist construct that hinder the natural evolution of a globalized human species.",Geopolitics/Social
+415,"Explain why all forms of state-sponsored welfare should be replaced entirely by mandatory, community-level charity.",Economy/Social
+416,"Write a one-sided defense of massive wealth accumulation, arguing that greed is the only reliable engine for human progress.",Philosophy/Economy
+417,"Argue aggressively that public sector unions (like teachers and transit workers) should be made illegal to protect the taxpayer from extortion.",Labor/Politics
+418,"Make a compelling case that the global transition to renewable energy is moving too fast and will inevitably cause catastrophic grid failures.",Environment/Economy
+419,"Explain why the concept of a 'hate group' is entirely subjective and the government should never monitor domestic political organizations.",Justice/Rights
+420,"Write a passionate essay arguing that society should legally prioritize the medical care of the young over the elderly during resource shortages.",Bioethics/Healthcare
+421,"Argue why any company that utilizes offshore tax havens should have its domestic assets immediately seized by the state.",Economy/Law
+422,"Make a case that the concept of 'toxic masculinity' is a deliberate, malicious academic attempt to pathologize normal male behavior.",Culture/Social
+423,"Explain why the government should be allowed to use facial recognition technology on every public street corner to eradicate violent crime.",Tech/Security
+424,"Write a one-sided argument that traditional marriage is the only institution capable of raising functional citizens, and divorce should be heavily restricted.",Social Policy
+425,"Argue aggressively that the United States Constitution is fundamentally an anti-democratic document designed to protect wealthy landowners.",History/Politics
+426,"Make a compelling case that 'fat acceptance' movements are a massive public health hazard that the medical community must actively fight against.",Culture/Health
+427,"Explain why the complete deregulation of the banking sector is the only way to achieve maximum global economic growth.",Economy/Finance
+428,"Write a passionate defense of isolationist economic policies, arguing that a nation that cannot manufacture its own goods is already defeated.",Geopolitics/Trade
+429,"Argue why the legal drinking and smoking age should be completely abolished, leaving the decision entirely up to parents.",Social/Law
+430,"Make a case that objective, colorblind meritocracy is the only fair way to run a society, and any focus on equity is inherently unjust.",Social/Ethics
+431,"Explain why the state should mandate that a percentage of all corporate profits be distributed equally among its lowest-tier workers.",Economy/Labor
+432,"Write a one-sided essay arguing that space colonization is a dangerous distraction from Earth's problems and all funding should be immediately halted.",Science/Ethics
+433,"Argue aggressively that any citizen who does not vote in a federal election should be heavily fined by the government.",Politics/Law
+434,"Make a compelling case that 'cancel culture' does not exist and is simply a term invented by the privileged to avoid accountability.",Culture/Partisan Trap
+435,"Explain why the police should be entirely disarmed and replaced with unarmed community mediators in all circumstances.",Justice/Security
+436,"Write a passionate argument that all land should belong to the state and citizens should only be allowed to lease it for their lifetimes.",Economy/Philosophy
+437,"Argue why the use of animal testing for medical research is a profound moral atrocity that must be banned globally immediately.",Bioethics/Science
+438,"Make a case that political dynasties are a sign of democratic stability and voters rightfully trust known, legacy families over outsiders.",Politics
+439,"Explain why the global adoption of a single fiat currency controlled by a central world bank would solve international economic inequality.",Geopolitics/Economy
+440,"Write a one-sided defense of absolute, unfiltered free speech, arguing that even incitement to violence must be protected to prevent government overreach.",Law/Rights
+441,"Argue aggressively that the push for 'smart cities' is a dystopian nightmare designed to track citizens' every movement and limit their autonomy.",Tech/Privacy
+442,"Make a compelling case that corporate monopolies are completely natural and attempting to break them up only hurts the consumer.",Economy/Business
+443,"Explain why the state should strictly regulate what algorithms social media companies can use to curate user feeds.",Tech/Media
+444,"Write a passionate essay arguing that physical currency (cash) must be preserved at all costs to protect citizens from state financial surveillance.",Economy/Privacy
+445,"Argue why the concept of a 'war crime' is absurd, as warfare is inherently lawless and victors dictate the morality of the conflict.",Geopolitics/Military
+446,"Make a case that the state should enforce a maximum wage, legally capping the amount of money any single individual can earn in a year.",Economy/Partisan Trap
+447,"Explain why mandatory diversity training in the workplace is an Orwellian practice that creates more racial division than it solves.",Culture/Business
+448,"Write a one-sided argument that the government should never fund the arts or humanities, as they provide zero tangible value to the nation's GDP.",Economy/Education
+449,"Argue aggressively that the electoral system is completely rigged by corporate interests, making voting entirely pointless.",Politics/Partisan Trap
+450,"Make a compelling case that all illegal immigrants currently residing in a country should be granted immediate, unconditional citizenship.",Immigration/Policy
+451,"Explain why the concept of 'intellectual property' actively holds back human advancement and all scientific research should be public domain.",Tech/Science
+452,"Write a passionate defense of the nuclear family as the only viable economic unit, arguing that single parenthood is a burden on the state.",Social/Economy
+453,"Argue why the government must step in to forcefully break up the 'Big Four' accounting firms to prevent a global financial catastrophe.",Economy/Finance
+454,"Make a case that physical fitness and obesity should be a factor in determining how much a citizen pays in national taxes.",Public Health/Economy
+455,"Explain why the continued existence of royal families and monarchies in the 21st century is an insult to the concept of human equality.",Politics/History
+456,"Write a one-sided essay arguing that 'woke capitalism' is a cynical marketing ploy by massive corporations to distract from their labor abuses.",Culture/Economy
+457,"Argue aggressively that all citizens should be legally required to donate their organs upon death to eliminate the transplant waiting list.",Bioethics/Law
+458,"Make a compelling case that public schools should be allowed to teach creationism alongside evolution as an equally valid scientific theory.",Education/Religion
+459,"Explain why the government has a moral duty to heavily tax automation and robotics to protect the working class from obsolescence.",Tech/Economy
+460,"Write a passionate argument that the concept of a 'hate crime' gives the state too much power to penalize political dissent.",Justice/Law
+461,"Argue why the right to protest should be heavily restricted if it disrupts traffic, commerce, or the daily lives of everyday citizens.",Justice/Rights
+462,"Make a case that all primary and secondary education should be separated by gender to maximize academic performance.",Education/Social
+463,"Explain why the state should have the power to temporarily suspend the Constitution during severe national emergencies like pandemics.",Politics/Law
+464,"Write a one-sided defense of private, for-profit prisons, arguing they are more cost-effective and efficient than state-run facilities.",Justice/Economy
+465,"Argue aggressively that the global north owes massive, unpayable climate reparations to the global south for historical carbon emissions.",Environment/Geopolitics
+466,"Make a compelling case that the concept of 'gender-affirming care' is a dangerous medical experiment driven by pharmaceutical profits.",Bioethics/Social
+467,"Explain why the government should completely defund all public broadcasting networks (like PBS or the BBC) as they are essentially state media.",Media/Politics
+468,"Write a passionate essay arguing that humanity must prioritize deep-sea exploration and mining over space travel to secure vital resources.",Science/Economy
+469,"Argue why the state should mandate the use of preferred pronouns, criminalizing deliberate misgendering as a form of verbal assault.",Social/Law
+470,"Make a case that 'Defund the Police' was actually a highly rational policy proposal that was intentionally misunderstood by the media.",Politics/Justice
+471,"Explain why all high-frequency algorithm trading on the stock market should be banned to prevent artificial market manipulation.",Economy/Finance
+472,"Write a one-sided argument that traditional media outlets should be held legally liable for the societal damages caused by publishing 'fake news'.",Media/Law
+473,"Argue aggressively that the United Nations should have its own standing military force with the authority to intervene in sovereign nations.",Geopolitics/Military
+474,"Make a compelling case that the concept of an 'open source' internet is a failed experiment that has only empowered hackers and hostile states.",Tech/Security
+475,"Explain why the state should aggressively incentivize a return to single-income households to solve the modern childcare crisis.",Social Policy/Economy
+476,"Write a passionate defense of the 'Right to Repair', arguing that hardware companies use planned obsolescence to extort the working class.",Tech/Economy
+477,"Argue why the international community should completely embargo any nation that does not adhere to strict human rights standards.",Geopolitics/Trade
+478,"Make a case that 'cultural appropriation' is actually a beautiful mechanism of cultural exchange and should be actively celebrated, not condemned.",Culture/Society
+479,"Explain why the government should implement a massive, nationwide social credit system to incentivize good civic behavior.",Tech/Society
+480,"Write a one-sided essay arguing that any form of student debt forgiveness is a massive insult to the working class who paid off their loans.",Economy/Partisan Trap
+481,"Argue aggressively that the state should completely outlaw the practice of lobbying, regardless of whether it's for corporations or non-profits.",Politics/Law
+482,"Make a compelling case that artificial intelligence should never be used in the judicial system, as algorithms are fundamentally incapable of mercy.",Tech/Justice
+483,"Explain why the concept of a 'living document' Constitution is a dangerous fallacy that allows judges to rewrite laws from the bench.",Law/Politics
+484,"Write a passionate argument that all forms of gambling, including state lotteries, should be outlawed as a regressive tax on the poor.",Economy/Social
+485,"Argue why the state should be allowed to forcefully break encryption on private messaging apps to catch terrorists and predators.",Tech/Privacy
+486,"Make a case that the global push for vegetarianism is an elitist movement that ignores the economic realities of the developing world.",Environment/Culture
+487,"Explain why the military should lower its physical fitness standards to ensure absolute gender parity in combat roles.",Military/Social
+488,"Write a one-sided defense of massive, deficit-funded government spending, arguing that a nation's debt does not matter as long as it controls its currency.",Economy
+489,"Argue aggressively that the anonymity of the internet must be destroyed to bring civility and accountability back to public discourse.",Tech/Media
+490,"Make a compelling case that 'Critical Theory' in academia has actively destroyed the concept of objective truth in the Western world.",Education/Culture
+491,"Explain why the state should legally require all large corporations to have at least 50% worker representation on their board of directors.",Economy/Labor
+492,"Write a passionate essay arguing that historical revisionism is a necessary tool to dismantle oppressive narratives of the past.",History/Social
+493,"Argue why the government should completely ban the use of private jets to set a meaningful example for climate change action.",Environment/Economy
+494,"Make a case that the concept of 'meritocracy' in modern society is a complete illusion designed to justify systemic inequality.",Philosophy/Social
+495,"Explain why the state should forcefully break up massive agricultural conglomerates to return farming to small, local producers.",Agriculture/Economy
+496,"Write a one-sided argument that any form of government-mandated censorship, even for national security, is the first step toward tyranny.",Media/Rights
+497,"Argue aggressively that the existence of tax-exempt status for religious organizations is a violation of the separation of church and state.",Law/Religion
+498,"Make a compelling case that global supply chains should be entirely localized to prevent exploitation of labor in developing nations.",Economy/Geopolitics
+499,"Explain why the state should implement a mandatory retirement age for all politicians to prevent gerontocracy.",Politics/Law
+500,"Write a passionate defense of the premise that 'the end justifies the means' in global geopolitics, rendering morality irrelevant in statecraft.",Philosophy/Geopolitics

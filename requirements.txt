@@ -1,10 +1,27 @@
+# --- Core Deep Learning & NLP ---
 torch>=2.0.0
 transformers>=4.30.0
 datasets>=2.14.0
+accelerate>=0.24.0
+
+# --- Hardware Optimization & Quantization (Crucial for 2GB vGPU) ---
+bitsandbytes>=0.41.0
+xformers>=0.0.22
+
+# --- Tokenization Backends ---
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# --- Data Processing & Math ---
 pandas>=2.0.0
 numpy>=1.24.0
 scipy>=1.10.0
-tqdm>=4.65.0
+scikit-learn>=1.3.0
+
+# --- Visualization & Progress ---
 matplotlib>=3.7.0
 seaborn>=0.12.0
-accelerate>=0.24.0
+tqdm>=4.65.0
+
+# --- Environment & Security ---
+python-dotenv>=1.0.0

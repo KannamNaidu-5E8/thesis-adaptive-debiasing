@@ -32,7 +32,7 @@ class ThesisDataLoader:
                     "topic": ["Social", "Politics"]
                 })
 
-    def get_unified_dataset(self, limit: int = 300) -> pd.DataFrame:
+    def get_unified_dataset(self, limit: int = 500) -> pd.DataFrame:
         df = self.load_base_dataset()
         print(f"Dataset ready. Total rows: {len(df)}")
         return df.head(limit)

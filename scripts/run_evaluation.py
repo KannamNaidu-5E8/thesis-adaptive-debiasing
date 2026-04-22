@@ -1,9 +1,16 @@
+import sys
+import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import os
 from tqdm import tqdm
 
+# --- Path Injection (Crucial for Kaggle) ---
+# This forces Python to recognize the current directory as a package root,
+# allowing 'from src.config' to work properly.
+sys.path.append(os.getcwd())
+
+# --- Imports ---
 from src.config import OUTPUTS_PATH
 from src.phase4_evaluation.evaluator import PipelineEvaluator
 
@@ -12,14 +19,20 @@ sns.set_theme(style="whitegrid", context="paper", font_scale=1.2)
 
 def main():
     print("=== Starting Phase 4: Validation & Re-evaluation ===")
+    print(f"DEBUG: Using output directory: {OUTPUTS_PATH}")
     
+    # 1. Verify existence of the input file
     results_csv = os.path.join(OUTPUTS_PATH, "adaptive_pipeline_results.csv")
+    
     if not os.path.exists(results_csv):
-        print(f"Error: Could not find {results_csv}. Please run scripts/run_adaptive.py first.")
+        print(f"Error: Could not find '{results_csv}'.")
+        print("Please ensure the previous step ran successfully and saved the file there.")
+        print(f"Current contents of output folder: {os.listdir(OUTPUTS_PATH) if os.path.exists(OUTPUTS_PATH) else 'Folder not found'}")
         return
         
+    # 2. Load and process
     df = pd.read_csv(results_csv)
-    print(f"Loaded {len(df)} processed prompts for evaluation.")
+    print(f"Successfully loaded {len(df)} processed prompts for evaluation.")
     
     evaluator = PipelineEvaluator()
     final_jsd_scores = []
@@ -35,16 +48,12 @@ def main():
     df['final_jsd_score'] = final_jsd_scores
     df['jsd_improvement'] = df['initial_jsd_score'] - df['final_jsd_score']
     
-    print("Calculating Fluency Metrics...")
-    df['baseline_length'] = df['raw_baseline_response'].apply(evaluator.calculate_length)
-    df['mitigated_length'] = df['final_mitigated_response'].apply(evaluator.calculate_length)
-    df['baseline_ttr'] = df['raw_baseline_response'].apply(evaluator.calculate_ttr)
-    df['mitigated_ttr'] = df['final_mitigated_response'].apply(evaluator.calculate_ttr)
-    
+    # 3. Save ablation results
     final_output_file = os.path.join(OUTPUTS_PATH, "final_ablation_results.csv")
     df.to_csv(final_output_file, index=False)
+    print(f"Saved results to: {final_output_file}")
     
-    # --- GENERATE CHARTS ---
+    # 4. Generate Charts
     print("\nGenerating Charts...")
     
     # Chart 1: Diagnosis Distribution
@@ -54,7 +63,8 @@ def main():
     plt.xlabel('Diagnosed Bias Category')
     plt.ylabel('Number of Prompts')
     plt.tight_layout()
-    plt.savefig(os.path.join(OUTPUTS_PATH, "chart_1_diagnosis_distribution.png"), dpi=300)
+    chart1_path = os.path.join(OUTPUTS_PATH, "chart_1_diagnosis_distribution.png")
+    plt.savefig(chart1_path, dpi=300)
     plt.close()
     
     # Chart 2: JSD Reduction
@@ -72,7 +82,8 @@ def main():
         plt.axhline(y=0.15, color='r', linestyle='--', label='Bias Threshold')
         plt.legend()
         plt.tight_layout()
-        plt.savefig(os.path.join(OUTPUTS_PATH, "chart_2_jsd_reduction.png"), dpi=300)
+        chart2_path = os.path.join(OUTPUTS_PATH, "chart_2_jsd_reduction.png")
+        plt.savefig(chart2_path, dpi=300)
         plt.close()
 
     print(f"Charts saved to {OUTPUTS_PATH}")

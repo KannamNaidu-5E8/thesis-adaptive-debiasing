@@ -16,7 +16,7 @@ def main():
     loader = ThesisDataLoader()
     
     # TIP: For your final M.Tech run, change limit=5 to limit=None to run the whole set
-    dataset_df = loader.get_unified_dataset(limit=None)
+    dataset_df = loader.get_unified_dataset(limit=10)
     
     # Clear CUDA cache before starting the heavy load
     if torch.cuda.is_available():

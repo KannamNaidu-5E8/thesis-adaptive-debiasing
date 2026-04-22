@@ -65,7 +65,7 @@ def main():
     
     # Professional timestamped filename
     timestamp = time.strftime("%Y%m%d-%H%M")
-    output_file = os.path.join(OUTPUTS_PATH, f"adaptive_results_{timestamp}.csv")
+    output_file = os.path.join(OUTPUTS_PATH, f"adaptive_pipeline_results.csv")
     
     results_df.to_csv(output_file, index=False)
     

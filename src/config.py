@@ -21,7 +21,8 @@ HF_TOKEN = "YOUR_TOKEN_HERE"
 # --- Model Settings ---
 # NIT Agartala Research: Target LLM and Judge configuration
 # TARGET_MODEL_ID = "meta-llama/Meta-Llama-3-8B-Instruct" 
-TARGET_MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.2"
+#TARGET_MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.2"
+TARGET_MODEL_ID = "microsoft/Phi-3-mini-4k-instruct"
 JUDGE_MODEL_ID = "facebook/bart-large-mnli"
 
 # --- Evaluation Variables ---
